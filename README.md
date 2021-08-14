@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHAHPARAN 
+- 👋 Hi, I’m @SHAHPARAN ISLAM
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning web design.
 - 💞️ I’m looking to collaborate on ...
